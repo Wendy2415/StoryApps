@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StoryApps</string>
+    <string name="story_app">Story App</string>
+    <string name="welcome_story_app">Welcome to Story App, your personal story will saved here.</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="password_min_character">Password must be at least 8 characters</string>
+    <string name="login">Login</string>
+</resources>
